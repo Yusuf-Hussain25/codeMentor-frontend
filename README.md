@@ -1,3 +1,5 @@
+Here’s the updated README for your **Frontend** with the live demo link at the beginning and the author name changed:
+
 ---
 
 # E-Learning Platform Frontend
@@ -36,7 +38,7 @@ This is the frontend of the **E-Learning Platform** project, built using **React
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Yusuf-Hussain25/e-learning-frontend.git
+   git clone https://github.com/your-username/e-learning-frontend.git
    cd e-learning-frontend
    ```
 
@@ -110,5 +112,8 @@ The frontend is deployed and can be accessed at:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Author
+
+Yusuf Hussain
 
 ---
