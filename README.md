@@ -1,5 +1,3 @@
-Here’s the updated README for your **Frontend** with the live demo link at the beginning and the author name changed:
-
 ---
 
 # E-Learning Platform Frontend
